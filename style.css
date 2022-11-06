@@ -80,7 +80,7 @@ h1 {
 .tab {
     position: absolute;
     left: 50%;
-    transform: translate(-50%, 10%);
+    transform: translate(-50%, 8%);
     background: wheat;
     border-collapse: collapse;
     width: 80%;
@@ -103,7 +103,7 @@ th,td {
     color: wheat;
 }
 .header:hover {
-    background-color: none;
+    background: none;
     transform: none;
     box-shadow: none;
 }
